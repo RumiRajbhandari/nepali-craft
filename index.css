@@ -1,0 +1,14 @@
+ul li a{
+color: white;
+
+}
+nav{
+  background-color: #f7786b;
+}
+.category ul li a{
+  color: black;
+}
+.item img{
+  height: 300px;
+  width: 300px;
+}
